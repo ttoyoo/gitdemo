@@ -1,10 +1,10 @@
 # Title
 
-This is a demo project.
+This is a demo git project.
 
 # Goal
 
-Doing some git demo test.
+Doing git demo test, you can pratice how to fork and PR opensource project.
 
 # Demo
 
