@@ -6,6 +6,40 @@ This is a demo project.
 
 Doing some git demo test.
 
-# Teamwork
+# Demo
 
-Sharing codes by others.
+## Bash
+
+```
+$ bash hello.sh 
+Hello world!
+```
+
+## Python
+
+```
+$ python hello.py
+hello, world!123456
+```
+
+## Go
+
+```
+$ go run hello.go 
+hello, world
+```
+
+## Ruby
+
+```
+$ ruby hello.rb
+Hello world!
+```
+
+## Scala
+
+```
+$ scalac hello.scala
+$ scala hello
+Hello World!
+```
