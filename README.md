@@ -45,3 +45,11 @@ $ scalac hello.scala
 $ scala hello
 Hello, Scala
 ```
+
+## C
+
+```
+$ gcc hello.c -o hello.bin
+$ ./hello.bin 
+Hello, C
+```
