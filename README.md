@@ -53,3 +53,11 @@ $ gcc hello.c -o hello.bin
 $ ./hello.bin 
 Hello, C
 ```
+
+## Java
+
+```
+$ javac hello.java
+$ java hello
+Hello, Java
+```
