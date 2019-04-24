@@ -8,32 +8,34 @@ Doing git demo test, you can pratice how to fork and PR opensource project.
 
 # Demo
 
+Hello world by multiple develop languages.
+
 ## Bash
 
 ```
 $ bash hello.sh 
-Hello world!
+Hello, Bash
 ```
 
 ## Python
 
 ```
-$ python hello.py
-hello, world!123456
+$ python hello.py 
+Hello, Python
 ```
 
 ## Go
 
 ```
 $ go run hello.go 
-hello, world
+Hello, Go
 ```
 
 ## Ruby
 
 ```
-$ ruby hello.rb
-Hello world!
+$ ruby hello.rb 
+Hello, Ruby
 ```
 
 ## Scala
@@ -41,5 +43,5 @@ Hello world!
 ```
 $ scalac hello.scala
 $ scala hello
-Hello World!
+Hello, Scala
 ```
